@@ -1,0 +1,7 @@
+D:\Users\victor.hsantos45\source\repos\Aula05Condicoes\Aula05Condicoes\bin\Debug\Aula05Condicoes.exe.config
+D:\Users\victor.hsantos45\source\repos\Aula05Condicoes\Aula05Condicoes\bin\Debug\Aula05Condicoes.exe
+D:\Users\victor.hsantos45\source\repos\Aula05Condicoes\Aula05Condicoes\bin\Debug\Aula05Condicoes.pdb
+D:\Users\victor.hsantos45\source\repos\Aula05Condicoes\Aula05Condicoes\obj\Debug\Aula05Condicoes.csproj.AssemblyReference.cache
+D:\Users\victor.hsantos45\source\repos\Aula05Condicoes\Aula05Condicoes\obj\Debug\Aula05Condicoes.csproj.CoreCompileInputs.cache
+D:\Users\victor.hsantos45\source\repos\Aula05Condicoes\Aula05Condicoes\obj\Debug\Aula05Condicoes.exe
+D:\Users\victor.hsantos45\source\repos\Aula05Condicoes\Aula05Condicoes\obj\Debug\Aula05Condicoes.pdb
